@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Alan and I am a 2nd year **Computer Science** major at the **University of British Columbia**. I am an aspiring software engineer looking to break into the tech world. Thank you for stopping by!
+Welcome to my GitHub! My name is Alan and I'm a 2nd year **Computer Science** major at the **University of British Columbia**. I'm an aspiring software engineer looking to break into the tech world. Thank you for stopping by!
 
 ### 💻 Skills:
 
@@ -25,7 +25,7 @@ Welcome to my GitHub! My name is Alan and I am a 2nd year **Computer Science** m
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="PuTTY" alt="PuTTY" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
 
-### 📫 Connect:
+### 🔗 Connect:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alan-w-u/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alanwu0004@gmail.com)
