@@ -8,9 +8,9 @@ Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at 
 {
   "name": "Alan Wu",
   "location": "Vancouver, BC, Canada",
-  "education": "University of British Columbia",
+  "school": "University of British Columbia",
   "degree": "BSc Computer Science",
-  "expected_graduation": "May 2027 (Co-op Program)",
+  "expected_graduation": "May 2027 (Co-op)",
   "natural_languages": "English, Spanish, Cantonese"
 }
 ```
