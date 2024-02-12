@@ -1,8 +1,21 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Alan and I'm a 2nd year **Computer Science** major at the **University of British Columbia**. I'm an aspiring software engineer looking to break into the tech world. Thank you for stopping by!
+Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at the **University of British Columbia**. I'm an aspiring software engineer looking to break into the tech world. Thank you for stopping by!
 
-### 💻 Languages:
+### 🔍 About
+
+```json
+{
+  "name": "Alan Wu",
+  "location": "Vancouver, BC, Canada",
+  "education": "University of British Columbia",
+  "degree": "BSc Computer Science",
+  "expected_graduation": "May 2027 (Co-op Program)",
+  "natural_languages": "English, Spanish, Cantonese"
+}
+```
+
+### 💻 Languages
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
@@ -12,12 +25,12 @@ Welcome to my GitHub! My name is Alan and I'm a 2nd year **Computer Science** ma
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
 
-### 📖 Libraries / Frameworks:
+### 📖 Libraries / Frameworks
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />&nbsp;
 
-### 🛠️ Developer Tools:
+### 🛠️ Developer Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
@@ -25,7 +38,7 @@ Welcome to my GitHub! My name is Alan and I'm a 2nd year **Computer Science** ma
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="PuTTY" alt="PuTTY" width="40" height="40" />&nbsp;
 
-### 🔗 Connect:
+### 🔗 Connect
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alanwu0004@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alan-w-u/)
