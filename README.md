@@ -27,6 +27,7 @@ Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at 
 ### 📖 Libraries / Frameworks
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />&nbsp;
 
 ### 🛠️ Developer Tools
