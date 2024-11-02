@@ -10,7 +10,7 @@ Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at 
   "location": "Vancouver, BC, Canada",
   "school": "University of British Columbia",
   "degree": "BSc Computer Science",
-  "expected_graduation": "May 2027 (Co-op)",
+  "expected_graduation": "May 2026",
   "natural_languages": "English, Spanish, Cantonese"
 }
 ```
