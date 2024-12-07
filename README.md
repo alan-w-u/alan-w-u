@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at the **University of British Columbia**. I'm an aspiring software engineer looking to break into the tech world. Thank you for stopping by!
+Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at the **University of British Columbia**. I'm an aspiring software engineer making my way through the tech world. Thanks for stopping by!
 
 ### 🔍 About
 
@@ -10,8 +10,22 @@ Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at 
   "location": "Vancouver, BC, Canada",
   "school": "University of British Columbia",
   "degree": "BSc Computer Science",
-  "expected_graduation": "May 2026",
-  "natural_languages": "English, Spanish, Cantonese"
+  "expected graduation": "May 2026",
+  "natural languages": "English, Spanish, Cantonese"
+}
+```
+
+### 💼 Experience
+
+```json
+{
+  "SMART Technologies": {
+    "role": "Software Engineer Intern",
+    "timeframe": "Sep 2024 - Present",
+    "location": "Calgary, AB, Canada",
+    "project": "Lumio",
+    "technologies": ["JavaScript", "TypeScript", "Vue", "Node", "Jest", "Firebase", "AWS", "TeamCity"]
+  }
 }
 ```
 
@@ -50,7 +64,7 @@ Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="Raspberry Pi" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" />&nbsp;
 
 ### 🔗 Connect
