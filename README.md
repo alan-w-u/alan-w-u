@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Alan and I'm a **Computer Science** student at the **University of British Columbia**. I'm an aspiring software engineer making my way through the tech world. Thanks for stopping by!
+Welcome to my GitHub! My name is Alan, and I'm a **computer science** student at the **University of British Columbia**. I'm a software engineer making my way through the tech world. Thanks for stopping by!
 
 ### 🔍 About
 
