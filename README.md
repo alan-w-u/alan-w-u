@@ -10,8 +10,8 @@ Welcome to my GitHub! My name is Alan, and I'm a **computer science** student at
   "location": "Vancouver, BC, Canada",
   "school": "University of British Columbia",
   "degree": "BSc Computer Science",
-  "expected graduation": "May 2026",
-  "natural languages": "English, Spanish, Cantonese"
+  "expectedGraduation": "May 2026",
+  "naturalLanguages": "English, Spanish, Cantonese"
 }
 ```
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! My name is Alan, and I'm a **computer science** student at
     "timeframe": "Sep 2024 - Present",
     "location": "Calgary, AB, Canada",
     "project": "Lumio",
-    "technologies": ["JavaScript", "TypeScript", "Vue", "Node", "Jest", "Firebase", "AWS", "TeamCity"]
+    "technologies": ["Vue", "JavaScript", "TypeScript", "Node", "Jest", "Firebase", "AWS", "TeamCity"]
   }
 }
 ```
@@ -35,10 +35,10 @@ Welcome to my GitHub! My name is Alan, and I'm a **computer science** student at
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
 
