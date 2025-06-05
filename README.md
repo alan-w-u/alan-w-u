@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at the **University of British Columbia**. I'm a software engineer making my way through the tech world. Thanks for stopping by!
+Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at the **University of British Columbia**. I'm a passionate software engineer trying to make my way through the tech world. Thanks for stopping by!
 
 ### 🔍 About
 
@@ -10,8 +10,7 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
   "location": "Vancouver, BC, Canada",
   "school": "University of British Columbia",
   "degree": "BSc Computer Science",
-  "expectedGraduation": "May 2026",
-  "naturalLanguages": "English, Spanish, Cantonese"
+  "languages": "English, Spanish, Cantonese"
 }
 ```
 
@@ -21,10 +20,10 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 {
   "SMART Technologies": {
     "role": "Software Engineer Intern",
-    "timeframe": "Sep 2024 - Present",
+    "duration": "Sep 2024 — Present",
     "location": "Calgary, AB, Canada",
     "project": "Lumio",
-    "technologies": ["Vue", "JavaScript", "TypeScript", "Node", "Jest", "Firebase", "AWS", "TeamCity"]
+    "technologies": ["Vue", "JavaScript", "TypeScript", "Node.js", "Firebase", "AWS", "Jest", "TeamCity"]
   }
 }
 ```
@@ -46,8 +45,9 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />&nbsp;
@@ -60,9 +60,10 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 ### 🛠️ Developer Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Jupyter" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Jupyter" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40" />&nbsp;
