@@ -7,24 +7,10 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 ```json
 {
   "name": "Alan Wu",
-  "location": "Vancouver, BC, Canada",
+  "location": "Vancouver, BC",
   "school": "University of British Columbia",
   "degree": "BSc Computer Science",
   "languages": "English, Spanish, Cantonese"
-}
-```
-
-### 💼 Experience
-
-```json
-{
-  "SMART Technologies": {
-    "role": "Software Engineer Intern",
-    "duration": "Sep 2024 — Present",
-    "location": "Calgary, AB, Canada",
-    "project": "Lumio",
-    "technologies": ["Vue", "JavaScript", "TypeScript", "Node.js", "Firebase", "AWS", "Jest", "TeamCity"]
-  }
 }
 ```
 
@@ -41,13 +27,15 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
 
-### 📖 Libraries / Frameworks
+### 📖 Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />&nbsp;
