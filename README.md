@@ -34,7 +34,7 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
@@ -59,8 +59,8 @@ Welcome to my GitHub! My name is Alan, and I'm a **Computer Science** student at
 
 ### 🔗 Connect
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alanwu0004@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alan-w-u/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>](mailto:alanwu0004@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>](https://www.linkedin.com/in/alan-w-u/)
 [<img src="https://img.shields.io/badge/Website-40916C?style=for-the-badge"/>](https://alan-w-u.github.io/)
 
 <!--
